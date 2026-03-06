@@ -6,7 +6,7 @@
 		Name="UNITEC-mmwave-WinUI"
 		Version="0.1.3.0"
 		Publisher="CN=Unitec"
-		Uri="https://bennett-utc.github.io/mmWave_DemoAppPublish/UNITEC_mmwave_WinUI_0.1.3.0_x64_Test/UNITEC_mmwave_WinUI_0.1.3.0_x64.msix"
+		Uri="https://github.com/Bennett-UTC/mmWave_DemoAppPublish/releases/download/v0.1.3/UNITEC_mmwave_WinUI_0.1.3.0_x64.msix"
 		ProcessorArchitecture="x64" />
 	<UpdateSettings>
 		<OnLaunch
