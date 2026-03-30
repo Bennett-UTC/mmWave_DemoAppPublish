@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://bennett-utc.github.io/mmWave_DemoAppPublish/UNITEC_mmwave_WinUI_x64.appinstaller"
-	Version="0.1.5.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="0.1.6.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainPackage
 		Name="UNITEC-mmwave-WinUI"
-		Version="0.1.5.0"
+		Version="0.1.6.0"
 		Publisher="CN=Unitec"
-		Uri="https://github.com/Bennett-UTC/mmWave_DemoAppPublish/releases/download/v0.1.5/UNITEC_mmwave_WinUI_0.1.5.0_x64.msix"
+		Uri="https://github.com/Bennett-UTC/mmWave_DemoAppPublish/releases/latest/download/UNITEC_mmwave_WinUI_0.1.6.0_x64.msix"
 		ProcessorArchitecture="x64" />
 	<UpdateSettings>
 		<OnLaunch
